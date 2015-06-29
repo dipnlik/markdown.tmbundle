@@ -17,6 +17,10 @@ Reference-style labels (titles are optional):
 	
 	  [id]: http://example.com/  "Title"
 
+Automatic:
+
+	<http://example.com>
+
 
 ## Images ##
 
